@@ -211,6 +211,12 @@ For detailed analysis, mathematical explanations, profiling results, and scalabi
 MA553 - High Performance Scientific Computing
 Fall 2022, Dr. Khanal
 
+All code, research, analysis, benchmarking, visualizations, and documentation were completed by Tyler T. Procko as part of the MA553 final project.
+
+### README Attribution
+
+This README was written by Claude (Anthropic) in 2025 to document Tyler's original 2022 project, based on the comprehensive 30-page project report.
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details
