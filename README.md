@@ -1,6 +1,6 @@
 # Mandelbrot Set Optimization
 
-**A comprehensive study of Python high-performance computing techniques through fractal generation**
+**A comprehensive study of Python high-performance computing techniques through fractal generation.**
 
 ## What is this?
 
